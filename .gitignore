@@ -1,0 +1,6 @@
+.vscode
+TestesUnitarios.Console/bin/
+TestesUnitarios.Console/obj/
+TestesUnitarios.Console/Program.cs
+TestesUnitarios.Tests/bin/
+TestesUnitarios.Tests/obj
